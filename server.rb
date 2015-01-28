@@ -1,4 +1,4 @@
-p require 'sinatra'
+require 'sinatra'
 
 get '/' do
 	"Hello world!"
